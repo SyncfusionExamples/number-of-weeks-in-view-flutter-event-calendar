@@ -1,4 +1,4 @@
-package com.example.flutter_weeknumber
+package com.example.numberofweeks
 
 import io.flutter.embedding.android.FlutterActivity
 
