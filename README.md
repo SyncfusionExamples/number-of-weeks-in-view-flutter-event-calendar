@@ -4,6 +4,8 @@ A quick-start example to help you to change the number of weeks in the Flutter C
 
 You can display the required number of weeks in the Flutter Event Calendar by using the numberOfWeeksInView property of the MonthViewSettings.By default, numberOfWeeksInView starts from current week, and this can be modified using the initialDisplayDate property of calendar. In this sample the two weeks calendar is displyed by setting the numberOfWeeksInView property with the value 2.
 
+![NumberofMonthRows](https://user-images.githubusercontent.com/46158936/206447110-42b4a7b2-7059-436d-9361-79c1dcf7bd53.png)
+
 For more details , Refer to our UG documentation [Customize number of month rows](https://help.syncfusion.com/flutter/calendar/month-view#customize-number-of-month-rows).
 
 ## Requirements to run the demo
